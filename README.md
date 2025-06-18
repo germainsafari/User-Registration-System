@@ -1,6 +1,7 @@
 # User Registration System
 <img width="305" alt="Screenshot 2025-06-18 124439" src="https://github.com/user-attachments/assets/2ca2765c-de9c-40d5-b44b-925a7240f549" />
-A full-stack user registration web application featuring a React frontend, a Flask API backend, and a PostgreSQL database.
+
+### A full-stack user registration web application featuring a React frontend, a Flask API backend, and a PostgreSQL database.
 
 ## Project Structure
 
